@@ -1,5 +1,3 @@
 This package contains doclets for modern Java APIs such as JAXB, JAX-RS and JPA.
 
-Proper documentation can be found at: http://www.lunatech-labs.com/open-source/jax-doclets
-
-Source code can be found at: https://github.com/FroMage/jax-doclets 
+For documentation on how to use this module please see the wiki.
